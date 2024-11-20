@@ -39,7 +39,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
     <section class="container">
-        <header><b><u>Registration Form</u></b></header>
+        <header><b><u>hello motto</u></b></header>
         <form action="REGISTER1.PHP" method="post" class="form">
             <div class="input-box">
                 <input type="text" name="full_name" placeholder="Enter full name" required />
