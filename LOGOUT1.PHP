@@ -5,4 +5,4 @@ session_destroy();
 header("Location: LOGIN1.PHP");
 exit();
 ?>
-//ibrahim dumbass
+
